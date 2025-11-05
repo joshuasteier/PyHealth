@@ -1,0 +1,10 @@
+version: "v2.0.0"
+tables:
+  tuev:
+    file_path: "tuev-metadata-pyhealth.csv"
+    patient_id: null
+    timestamp: null
+    attributes:
+    - "path"
+    - "url"
+    - "label"
